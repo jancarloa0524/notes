@@ -19,7 +19,7 @@ Calculating with an undefined value will result in **NaN**:
 ``` javascript
 var example = 1 + example;
 ```
-[jsbin](https://jsbin.com/wogonakowo/edit?js,console)
+[jsbin](https://jsbin.com/hahoxaluja/edit?js,console)
 
 Characters put in between quotations marks are strings. The following is called a **string-literal**:
 
