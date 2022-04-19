@@ -1,0 +1,1 @@
+[jsbin](https://jsbin.com/namanoxehi/edit?js,console)

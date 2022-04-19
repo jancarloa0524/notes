@@ -1,0 +1,1 @@
+[jsbin](https://jsbin.com/pazaxepoge/edit?js,console)

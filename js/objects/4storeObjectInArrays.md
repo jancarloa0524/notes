@@ -1,0 +1,1 @@
+[jsbin](https://jsbin.com/ranadikeka/edit?js,console)

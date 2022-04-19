@@ -1,0 +1,1 @@
+[jsbin](https://jsbin.com/faladuboye/edit?js,console)

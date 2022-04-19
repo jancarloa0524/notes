@@ -1,0 +1,1 @@
+[jsbin](https://jsbin.com/wasulodaco/edit?js,console)

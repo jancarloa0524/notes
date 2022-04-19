@@ -1,0 +1,1 @@
+[jsbin](https://jsbin.com/yipofezive/edit?js,console)

@@ -1,0 +1,1 @@
+[jsbin](https://jsbin.com/fizivivawo/edit?js,console)
