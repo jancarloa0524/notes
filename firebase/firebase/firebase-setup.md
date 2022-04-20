@@ -48,6 +48,9 @@ const firebaseConfig = {
   messagingSenderId: "",
   appId: ""
 };
+
+// init firebase
+initializeApp(firebaseConfig)
 ```
 
 Now, you should be set up to use Firebase. Remember to import the services that you want to use. 
