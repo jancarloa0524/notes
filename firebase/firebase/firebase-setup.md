@@ -6,6 +6,10 @@ When setting up a Firebase project, first start by creating your directory for y
 * src
     * index.js
 
+You want to run the following command to create the package.json:
+
+`npm init -y`
+
 You then want to install Webpack with the following command:
 
 `npm i webpack webpack-cli -D`
